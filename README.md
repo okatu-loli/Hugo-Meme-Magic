@@ -1,6 +1,6 @@
 # Hugo-Meme-Magic
 
-[简体中文](https://github.com/okatu-loli/Hugo-Meme-Magic/blob/main/README.zh-CN.md)
+[简体中文](README.zh-CN.md)
 
 This repository includes my experiences and lessons learned while using and modifying the [Hugo](https://gohugo.io/) theme [meme](https://github.com/reuixiy/hugo-theme-meme), as well as some derivative tools, such as scripts for automating or simplifying certain tasks.
 
