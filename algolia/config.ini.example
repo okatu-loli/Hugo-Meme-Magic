@@ -1,0 +1,4 @@
+[algolia]
+ApplicationID = YourApplicationID
+AdminAPIKey = YourAdminAPIKey
+IndexName = YourIndexName
