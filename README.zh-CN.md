@@ -1,6 +1,6 @@
 # Hugo-Meme-Magic
 
-English version
+[English version](README.md)
 
 本仓库包含了我在使用和修改 [Hugo](https://gohugo.io/) 主题 [meme](https://github.com/reuixiy/hugo-theme-meme) 的过程中记录的一些经验，以及一些衍生工具，例如用于自动化或简化某些任务的脚本。
 
